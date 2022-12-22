@@ -27,6 +27,10 @@ const Layout = () => {
             <button className="button">情緒分析</button>
           </Link>
 
+          <Link to="/FileAnalysis">
+            <button className="button">進階情緒分析</button>
+          </Link>
+
           <Link to="/Aboutus">
             <button className="button">關於我們</button>
           </Link>
